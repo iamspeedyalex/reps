@@ -2,7 +2,7 @@
 Building reps in daily Codewars katas and CSSBattle targets.
 
 <!--
-Make Public: May 17th, Sunday (after committing this day's katas)
+Make Public: May 17th, Sunday (before committing this day's katas)
 
 Need to add:
 - Table of Contents: (w/ links to each Kyu folder)
