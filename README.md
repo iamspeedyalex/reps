@@ -1,5 +1,6 @@
 # reps
 Building reps in daily Codewars katas and CSSBattle targets.
+One of the goals: be able to complete 5kyu katas without assistance.
 
 <!--
 testing a webhook
