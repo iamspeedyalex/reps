@@ -2,7 +2,7 @@ function greet() {
     return "hello world!";
   }
   
-  function greet() {
+  function greet2() {
     const h = "h";
     const e = "e";
     const l = "l";
@@ -15,3 +15,4 @@ function greet() {
   }
 
   console.log(greet());
+  console.log(greet2());
