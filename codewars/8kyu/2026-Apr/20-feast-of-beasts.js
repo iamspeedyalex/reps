@@ -5,3 +5,7 @@ function feast(beast, dish) {
       return false;
     }
   }
+
+/* 
+Best practices note: realized I could have just done return for the main line instead of the if else
+*/
